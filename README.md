@@ -10,6 +10,7 @@ We also encourage all users try to write Wiki in this system.
 The Syntax of .md files 
 -----------------------
 The ".md" file postfix is short for  "Mark Down". The tuorial for how to write Mark Down can be found [here](http://toyhouse.ie.tsinghua.edu.cn:8000/help/markdown#toc_3):
+中文的Markdown 语言介绍：http://zh.wikipedia.org/wiki/Markdown
 
 
 
